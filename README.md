@@ -1,2 +1,2 @@
 # RandomTools
-Just a random tools
+Just random tools
