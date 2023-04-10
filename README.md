@@ -1,10 +1,8 @@
 # VIM (Vi IMproved)
 
-****************************
+<!-- GETTING STARTED -->
 
-### Basic commands
-
-****************************
+## Basic commands
 
 _The most basic command for VIM are_
 
