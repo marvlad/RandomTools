@@ -15,4 +15,4 @@ _The most basic command for VIM are_
 ## Useful links
 
 You can find useful links
-*[Everyday Vim – A Basic Vim Commands Cheat Sheet by Brian Vanderwal][https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/]
+* [Everyday Vim – A Basic Vim Commands Cheat Sheet by Brian Vanderwal](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
